@@ -22,7 +22,7 @@ def show_houston_message():
     print(f"\n  {Fore.WHITE}┌─────────────────────────────────────────────────────┐")
     print(f"  |                                                     |")
     print(f"  | {Fore.GREEN}( •◡• ){Style.RESET_ALL} {Fore.CYAN}Houston:{Style.RESET_ALL}                                    |")
-    print(f"  | {Fore.YELLOW}Seeya Later, astronaut.{Style.RESET_ALL}                          |")
+    print(f"  | {Fore.YELLOW}Seeya Later! astronaut, have a good one.{Style.RESET_ALL}            |")
     print(f"  |                                                     |")
     print(f"  └─────────────────────────────────────────────────────┘\n")
     time.sleep(1)
