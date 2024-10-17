@@ -1,7 +1,7 @@
 
 # 🗂️ File Organizer Script
 
-![Python](https://img.shields.io/badge/Python-3.9-blue.svg) 
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg) 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Un script de Python diseñado para organizar archivos en una carpeta según sus extensiones. Los archivos se mueven automáticamente a carpetas basadas en su tipo (imágenes, videos, documentos, etc.), creando las carpetas si no existen. Si no se encuentra una categoría para un archivo, se coloca en una carpeta "Otros". Utiliza la biblioteca `colorama` para mejorar la visualización en la terminal y muestra un resumen de los archivos organizados.
@@ -65,4 +65,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-_Hecho con ❤️ por [Alvaro Avila Dev](https://github.com/tu-usuario)._
+_Hecho con ❤️ por [Alvaro Avila Dev](https://github.com/Helien-Dev)._
