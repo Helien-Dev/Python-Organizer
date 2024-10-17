@@ -25,11 +25,6 @@ Un script de Python diseñado para organizar archivos en una carpeta según sus 
    cd python-organizer
    ```
 
-3. Instala las dependencias necesarias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## 🛠️ Uso
 
 1. Ejecuta el script:
